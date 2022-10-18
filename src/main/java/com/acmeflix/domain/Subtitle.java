@@ -1,0 +1,3 @@
+package com.acmeflix.domain;
+
+public enum Subtitle {GREEK, ENGLISH, AFRIKAANS, GERMAN, ARABIC, MANDARIN, KOREAN, JAPANESE, FRENCH, SPANISH, ITALIAN, PORTUGUESE,}
